@@ -1,1 +1,12 @@
 test
+# Fake GitHub Token (classic format)
+ghp_abcdefghijklmnopqrstuvwxyz1234567890abcde
+
+# Fake AWS Access Key
+AKIAIOSFODNN7EXAMPLE
+
+# Fake Google API Key
+AIzaSyBd6Jx2qJ7yYV8nKpQmR9tL3wX4zZ1aB2c
+
+# Fake Stripe Secret Key
+sk_test_abcdefghijklmnopqrstuvwxyz123456
